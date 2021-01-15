@@ -1,6 +1,6 @@
 # music
 ### Playlist
-> ![#f03c15] Welcome to my playlist! 
+> **{messages}** Welcome to my playlist! 
 
 | Song | Source |
 |------|--------|
