@@ -1,5 +1,5 @@
 # music
-<p style="background-color:DodgerBlue;">Playlist</p>
+
 ``` Welcome to my playlist! ```
 
 | Song | Source |
