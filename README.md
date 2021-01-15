@@ -1,6 +1,6 @@
 # music
 ### Playlist
-> ``` Welcome to my playlist! ```
+> ```ruby Welcome to my playlist! ```
 
 | Song | Source |
 |------|--------|
