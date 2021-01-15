@@ -1,7 +1,5 @@
 # music
 
-<p style='color:red;'> Playlist </p>
-
 ``` Welcome to my playlist! ```
 
 | Song | Source |
