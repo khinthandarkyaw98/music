@@ -9,3 +9,4 @@
 |3. |aesthetic song • lofi type beat • 3 hours| [YouTube](https://www.youtube.com/watch?v=cbuZfY2S2UQ)|
 |4. |Beautiful Relaxing Music • Peaceful Piano Music & Guitar Music l Sunny Mornings by Peder B. Helland| [YouTube](https://www.youtube.com/watch?v=hlWiI4xVXKY)|
 |5. |Epik High All full english songs| [YouTube](https://www.youtube.com/playlist?list=PLNB-nq-iZwdLLX3wNENIyTxrphEWl0J18)|
+|6. |Epik High (에픽하이) - Lesson Zero Official Visualizer| [YouTube](https://www.youtube.com/watch?v=oF8kBwaVYb0&list=RDoF8kBwaVYb0&start_radio=1)|
